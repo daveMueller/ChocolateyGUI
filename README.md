@@ -29,8 +29,6 @@ Come join in the conversation about Chocolatey GUI in our Gitter Chat Room
 
 Or, you can find us in IRC at #chocolatey.
 
-<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
-
 ## Information
 
 * [Community Feed aka Chocolatey.org](https://chocolatey.org) (if this is down, try the backup at <http://chocolatey.apphb.com> )
@@ -45,7 +43,7 @@ You can find information about Chocolatey GUI here: [https://chocolatey.github.i
 ### Requirements
 
 * .NET Framework 4.5.2
-* Windows 7 SP1 through Windows 10 (1708) or Windows Server 2008 R2 SP1 through Windows Server 2016
+* Should work on all Windows Operating Systems from Windows 7 SP1 and above, and Windows Server 2008 R2 SP1 and above
 
 ### License / Credits
 
